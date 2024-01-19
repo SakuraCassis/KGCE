@@ -11,25 +11,6 @@ Running environment
 *   numpy 1.24.2
 *   scikit-learn 1.3.2
 
-<!-- Create a new folder named "gene" by executing the following command in the terminal or by manually creating a new folder through the file explorer:
-
-```
-mkdir gene
-```
-
-Change into the newly created "gene" folder:
-
-```
-cd gene
-```
-
-Create the three subfolders "city," "dblp," and "yelp" by executing the following commands:
-
-```
-mkdir city
-mkdir dblp
-mkdir yelp
-``` -->
 
 ## Dataset Download
 
