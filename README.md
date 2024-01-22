@@ -57,7 +57,7 @@ data['adjs']=[[AP,PV],[PA,VP,CV,VC]]
 * dblp
 
     ```python
-    python src/main.py --dataset dblp --lambda1 0.1 --epoch 30 --seed 21
+    !python src/main.py --dataset dblp --lambda1 0.1 --epoch 30 --seed 21
     ```
 * yelp
     ```python
@@ -78,6 +78,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
 
-For any questions or inquiries, please contact [1561659623@qq.com](mailto:1561659623@qq.com).
