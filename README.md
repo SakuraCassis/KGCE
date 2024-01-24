@@ -70,14 +70,16 @@ data['adjs']=[[AP,PV],[PA,VP,CV,VC]]
     ```
 
 
-## Contributing
+## Result
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please create a new issue or submit a pull request.
+
+| Dataset     | ACC    |   AUC  |  GAUC  |
+| :-------:   | :----: | :---:  | :---:  |
+| DBLP        | 0.8158 | 0.9178 | 0.9078 |
+| Yelp        | 0.8351 | 0.8964 | 0.9049 |
+|Foursquare   | 0.7514 | 0.8212 | 0.8216 |
+
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or inquiries, please contact [1561659623@qq.com](mailto:1561659623@qq.com).
