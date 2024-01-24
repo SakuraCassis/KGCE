@@ -57,7 +57,7 @@ data['adjs']=[[AP,PV],[PA,VP,CV,VC]]
 * dblp
 
     ```python
-    python src/main.py --dataset dblp --lambda1 0.1 --epoch 30 --seed 21
+    !python src/main.py --dataset dblp --lambda1 0.1 --epoch 30 --seed 21
     ```
 * yelp
     ```python
